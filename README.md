@@ -27,4 +27,4 @@ This example starts a [Fastify](https://www.fastify.io/) server.
 
 The server started simply returns a `{ message: "Hello world!" }` payload in JSON. The server code is located in the `index.ts` file.
 
-.
+..
