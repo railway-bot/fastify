@@ -1,1 +1,1 @@
-export const text = "lynnn";
+export const text = "d2mng2";
